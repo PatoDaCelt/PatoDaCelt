@@ -16,7 +16,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/
 - :student: I’m currently learning `Software Engineering`.
 - :computer: My main interests are  `Software Development`, `Technical Support`, `Data Analysis`, `Back-End` and `Databases`.
 - :nerd_face: I’m passionate about learning new things and new experiences.
-- :office: I’m currently looking for my first job as trainee in my area, this is [MY PAGE]().
+- :office: I’m currently looking for my first job as trainee in my area, this is [MY PAGE](https://portafolio-nu-dun.vercel.app/).
 
 
 ## 🛠️ Skills
